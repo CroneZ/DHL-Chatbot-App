@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "926090878253",
+    "firebase_url": "https://imdc-35f69.firebaseio.com",
+    "project_id": "imdc-35f69",
+    "storage_bucket": "imdc-35f69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926090878253:android:2ea3c4b2e5b4d7032c87a4",
+        "android_client_info": {
+          "package_name": "com.example.imdc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926090878253-jo5teov3nejbq5q5udq5raiu4t92o3lu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imdc",
+            "certificate_hash": "40c43a036f6a260ebbfc567de30cdf71ae143588"
+          }
+        },
+        {
+          "client_id": "926090878253-4k4als155dnq11i075754ot0jtsust2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8dQzTlSEOJf8jgcPTPciuFgn8mlf0cGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926090878253-4k4als155dnq11i075754ot0jtsust2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
